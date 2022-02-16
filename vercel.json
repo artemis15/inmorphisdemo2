@@ -1,6 +1,6 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://inmorphisdemo2.service-now.com/" },
-        { "source": "/:match*", "destination": "https://inmorphisdemo2.service-now.com/:match*" }
+        { "source": "/", "destination": "https://dev111852.service-now.com/" },
+        { "source": "/:match*", "destination": "https://dev111852.service-now.com/:match*" }
     ]
   }
