@@ -15,7 +15,7 @@ It's purpose it to create a proxy to a site you own.
 1.  A github account.
 1.  **Access to your DNS** for the domain to create appropriate records.
 2.  A **Vercel account**.
-3.  A **Git repository pointing to the proper domain [like this one](https://github.com/jacebenson/dev)**.
+3.  A **Git repository pointing to the proper domain [like this one](https://github.com/artemis15/inmorphisdemo2)**.
 
 You can read the repo's readme, or follow along here.  Also there are at least two other ways to do this.  One is using [ServiceNow's custom URL feature](https://docs.servicenow.com/bundle/paris-platform-administration/page/integrate/authentication/concept/custom-url.html).  The other is some magic on Cloudflare.
 
@@ -23,7 +23,7 @@ You can read the repo's readme, or follow along here.  Also there are at least t
 
 ## Deploy the repo
 
-1. [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fjacebenson%2Fdev)
+1. [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/artemis15/inmorphisdemo2)
 2. Login with GitHub, trust me.
 3. Enter a project name, I called mine `pdi-redirect`.
 4. Pick GitHub.
